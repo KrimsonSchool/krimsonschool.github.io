@@ -8,6 +8,7 @@ input{
     width: 250px;
     height: 75px;
     font-size: 30px;
+    background-color: #adb5c9;
 }
 
 input:hover, select:hover {
