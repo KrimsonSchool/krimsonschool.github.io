@@ -1,0 +1,12 @@
+h1 {
+    color: white;
+    background-color: gray;
+    text-align: center;
+}
+
+input{
+    width: 250px;
+    height: 75px;
+    font-size: 30px;
+    background-color: #adc9c4;
+}
